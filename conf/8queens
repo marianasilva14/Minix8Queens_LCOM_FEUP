@@ -1,0 +1,33 @@
+service 8queens
+{
+        system
+                UMAP
+                INT86
+                PRIVCTL
+                READBIOS
+                DEVIO
+                IRQCTL
+                ;
+        ipc
+                SYSTEM
+                rs
+                vm
+                pm
+                vfs
+                ;
+        io
+                40:4
+                60
+                64
+                70
+                71
+                ;               
+        irq
+                0         # TIMER 0 IRQ
+                1         # KBD IRQ 
+                8		  # RTC IRQ
+                12        # AUX/MOUSE IRQ
+                ;       
+        uid     0               
+                ;	
+};
