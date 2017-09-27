@@ -9,7 +9,7 @@ This project consists of the implementation of the eight queens game in the Mini
 
 # Architecture Design
 
-![minix8queens](https://user-images.githubusercontent.com/22835568/30923649-5abce0b8-a3a4-11e7-94ec-2a7434dc1a1e.PNG)
+![](https://user-images.githubusercontent.com/22835568/30923649-5abce0b8-a3a4-11e7-94ec-2a7434dc1a1e.png)
 ![minix8queens2](https://user-images.githubusercontent.com/22835568/30923653-5d15a426-a3a4-11e7-9595-9504094ce8ef.PNG)
 ![minix8queens3](https://user-images.githubusercontent.com/22835568/30923655-5e7cd6ea-a3a4-11e7-8b0f-b6653f6e2a3d.PNG)
 ![minix8queens4](https://user-images.githubusercontent.com/22835568/30923661-653330f6-a3a4-11e7-936e-d4f6e20bc23c.PNG)
