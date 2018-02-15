@@ -1,10 +1,5 @@
 # Minix 8Queens
 
-#### Group members
-
-- Ana Cláudia Fonseca Santos - up200700742
-- Mariana Lopes Silva - up201506197
-
 This project consists of the implementation of the eight queens game in the Minix operating system, developed throughout the curricular unit of the computer lab.
 
 # Architecture Design
@@ -27,4 +22,10 @@ This project consists of the implementation of the eight queens game in the Mini
 ![minix8queens8](https://user-images.githubusercontent.com/22835568/30923691-79012778-a3a4-11e7-81c3-e085474e4acc.PNG)
 ## When the game is lost
 ![minix8queens9](https://user-images.githubusercontent.com/22835568/30923696-7bce1c68-a3a4-11e7-9a50-645d0c5f5198.PNG)
+
+#### Group members
+
+- Ana Cláudia Fonseca Santos - up200700742
+- Mariana Lopes Silva - up201506197
+
 
